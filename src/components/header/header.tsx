@@ -12,7 +12,7 @@ function Header ({id}: headerInterface) {
             <Link to="/" className='navigation-link' id={id}>
                 <img src={arrowSvg} alt="voltar" />
             </Link>
-            <h2>Soccerity</h2>
+            <h2>Fut Society</h2>
         </header>
     )
 }
