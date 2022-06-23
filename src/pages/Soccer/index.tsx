@@ -63,7 +63,7 @@ function Soccer() {
 
         <div className="text-soccer">
           <div className="channel-info">
-            <b>Canal: {chooseChanneObj()?.name}</b> Você esta assistindo: Londrina Vs Vasco
+            <b>Canal: {chooseChanneObj()?.name}</b> Você esta assistindo: {chooseChanneObj()?.name}
           </div>
         </div>
       </div>
