@@ -1,0 +1,29 @@
+
+.option-channel a {
+    text-decoration: none;
+    color: #E5E5E5; 
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    padding-left: 0.8rem;
+    width: 558px;
+    height: 87px;
+    background: #24242E;
+    border-radius: 3px;
+}
+  
+.option-channel a:hover {
+    background-color: #1c1c24;
+    transition: background-color 0.3s;
+  }
+  
+.option-channel {
+    list-style: none;
+  }
+
+.option-channel img {
+    height: 83%;
+    width: 25.5%;
+    margin-left: 7%;
+    border-radius: 0.2rem;
+  }  

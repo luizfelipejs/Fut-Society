@@ -1,0 +1,14 @@
+.soccer-header {
+    display: flex;
+    align-items: center;
+}
+
+.soccer-header a img {
+    margin-left: -18%;
+}
+
+.soccer-header a {
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+}

@@ -1,0 +1,62 @@
+.soccer-page {
+  display: flex;
+  align-items: center;
+}
+.soccer-video {
+  margin-top: 6%;
+  margin-left: 2%;
+}
+.text-soccer img {
+  width: 199px;
+  height: 29px;
+  border-radius: 2px;
+}
+
+.text-option {
+  margin-left: 1rem;
+}
+
+.channel-options {
+  margin-top: -3.9%
+}
+
+.text-soccer { 
+  display: flex;
+  align-items: center;
+  padding-left: 0.8rem;
+  height: 68px;
+  margin-left: 0.4rem;
+  margin-top: 1rem;
+  background: #24242E;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 3px;
+}
+
+.text-soccer .channel-info b {
+  border-radius: 0.1rem;
+  padding: 1rem;
+  background-color: #171d25a6;
+}
+
+.text-soccer b {
+  margin: 1rem;
+}
+
+.soccer-video {
+  margin-top: -0.1%;
+  width: 50%;
+}
+
+.soccer-video iframe {
+  border-radius: 1rem;
+}
+
+.navigation-link {
+  display: flex;
+  padding: 1px;
+  margin: 1rem;
+  width: 10%;
+  background: #24242E;
+  border-radius: 6px;
+}
+
