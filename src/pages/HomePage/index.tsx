@@ -16,7 +16,7 @@ function HomePage() {
             <Link to="/soccer/premiere">Assistir</Link>
           </li>
           <li>
-            <Link to="/score-soccer">Ver os placares</Link> 
+            <Link to="/soccer-programming">Ver os placares</Link> 
           </li>
         </nav>
       </div>
